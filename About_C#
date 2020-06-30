@@ -1,0 +1,31 @@
+Machine language: Binary: 2: 0 or 1
+English Language: Standard Language
+
+EL-->translate(Compiler)-->ML
+
+High level language translate to Low level langauge
+
+ML--> Electronic Device: Current flow-->1, No Current flow-->0
+
+set of instructions: program
+
+Console/Terminal--> Output Print on the screen
+
+C# - Programming
+
+-Overview
+-Basic & Set up
+-Comments
+-Variables , Constant, And Data Types
+-Type Casting
+-User Input / Output print: Console I/O
+-Operators
+-Decision Making Statements/Conditional statements: If-else, Switch
+-Loops: for , while, do-while
+-Arrays: 1D, 2D, 3D
+-Functions:
+-OOPS: Encapsulation, class and object, Abstraction, Inheritance, Polymorphism, Constructor
+-Interfaces:
+-Exception Handling
+-Delecates
+-File I/O

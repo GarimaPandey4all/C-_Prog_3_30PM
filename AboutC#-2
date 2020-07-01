@@ -1,0 +1,30 @@
+C# Code create and run: VS code
+
+1. C# extension
+2. .Net Core SDK
+
+Create and run:
+
+1. dotnet new console
+2. dotnet run
+
+cd: change directory
+mkdir: make directory
+
+
+filename.exe:-->executable file is not human readable file. because it consists the binary code. binary code is readable by machine.
+
+class-->category-->skeleton-->structure
+
+object-->physical entity
+
+class: variables and functions-->return
+
+int a;
+
+void -->null or empty
+
+
+
+
+

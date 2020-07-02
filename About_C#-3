@@ -1,0 +1,45 @@
+C# - Programming:
+
+Comments: ignore by compiler
+
+1. // -->single line comment
+2. /*    */ --> Multiple line comment
+
+Variables: it is a container that hold/store the value.
+
+1. int 
+2. double
+3. char 'B'
+4. string "Brain Mentors" 
+5. bool true false : it is boolean data type
+
+Variable Declare:
+
+type variablename = value;
+
+Constant:
+
+const keyword in C#
+
+const int a = 10;
+
+Area of circle : pi*r*r , where pi = 3.14 or 22/7 and it is constant
+
+MONTHS --> constant = 12 is the fixed value for the MONTHS variable.
+
+Week--> constant = 7 
+
+#Identifiers: as per the programming rules we need to create it.
+
+const double PI = 3.14;
+
+const double a = 3.14; //not meaningful
+
+1. C# is case sensitive. e.g: MYCAR and mycar
+
+2. Reserved Words: int , char, double , class, static, void , main, etc.
+
+
+
+
+

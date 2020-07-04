@@ -1,0 +1,27 @@
+C# - Programming
+
+Type Casting:
+
+When you assign the value of one data type to another data type.
+
+In C#: 
+
+1. Implicit Casting: automatically--> convert small type to large type size
+
+	char --> int
+	int-->long
+	float-->double
+
+2. Explicit Casting: convert large type to small type size
+
+	double-->float
+	long-->int
+	int-->char
+	
+Type Conversion Predefined Methods:
+
+Convert.ToInt32(int): int : 4bytes
+Convert.ToString
+Convert.ToInt64(long): long : 8bytes
+Convert.ToDouble
+Convert.ToBoolean

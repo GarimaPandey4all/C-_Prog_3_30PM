@@ -1,0 +1,28 @@
+C# - Programming:
+
+Operators:
+
+a + b: Expression
+
+a, b = operands
+
++, - , *, /, %, &, >=, <=, <, > = Operators
+
+Types:
+
+1. Arithmetic Operators:
+
+	to perform mathematical operations:
+	
+	i. addition: +
+	ii. subtraction: -
+	iii. multiplication: *
+	iv. division: / returns quotient
+	v. Modulus: % : returns remainder
+	vi. Increment: ++: Pre and Post: a++: a + 1
+	vi. Decrement: --: Pre and Post: a--: a - 1
+	
+	
+	
+	
+	

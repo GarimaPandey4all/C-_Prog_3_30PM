@@ -1,0 +1,61 @@
+C# - Programming:
+
+Binary Number: 0 and 1 = 2
+
+1 byte = 8 bits
+
+^ --> exponent --> power
+2 ^ 7,2 ^ 6,2 ^ 5,2 ^ 4,2 ^ 3,2 ^ 2,2 ^ 1,2 ^ 0
+128		64	32		16	8		4	2		1
+
+128 64 32 16 8 4 2 1 
+				 1 1
+
+decimal number: 0 to 9
+
+b = 3--> 0000 0011 = 3
+
+b = b & 2; // Output:  0000 0011
+					 & 0000 0010
+					   0000 0010 = 2 	
+
+b = b | 2;
+					   0000 0011
+					 | 0000 0010
+					   0000 0011 = 3
+			
+X- Or: Exclusive OR			
+					   0000 0101
+					 ^ 0000 0011
+					   0000 0110 = 6
+
+Right and Left Shift Operators:
+
+x = 3;
+
+1. Right Shift
+
+x>>1;
+
+		x = 0000 0011  = 0000 0001 = 1
+		
+		
+x>>3;
+
+3 / 2 ^ 3 = 3 / 8 = 0
+
+y = 15;
+y >> 3;
+
+Right Shift
+	y / 2 ^ 3 = 15 / 8 = 1
+	
+Left Shift:
+x = 3;
+x<<1;
+
+		x = 0000 0011  = 0000 0110 = 6
+		
+Left Shift:
+	x = 5
+	x * 2 ^ 3 = 5 * 8 = 40
